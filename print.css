@@ -1,0 +1,29 @@
+body {
+   background: white;
+   font-size: 12pt;
+   overflow:visible !imporant;
+   position:relative !important;
+   height:auto !important;
+   width:100%;
+   font-face: Arial, sans;
+   }
+.content {
+   display: none;
+   overflow:visible !important;
+   position:static !imporant;
+     height:auto;
+   width: auto;
+   margin: 0 5%;
+   padding: 0;
+   border: 0;
+   float: none !important;
+   color: black;
+   background: transparent none;
+   }
+
+a:link, a:visited {
+   color: #520;
+   background: transparent;
+   font-weight: bold;
+   text-decoration: underline;
+   }

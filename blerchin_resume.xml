@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <resume name="Ben Lerchin" version="2011-03">
+    	 <contact>
+            <email label="Email" href="mailto:ben@lerchin.com">ben@lerchin.com</email>
+            <phone label="Mobile">+44 (0) 7546 120525</phone>
+            <permanent_address label="Address">280 Boyer Avenue\n Walla Walla, WA 99362\n USA
+	        </permanent_address>
+         </contact>
+        
+    	<profile>
+ 			<mission label="Mission Statement">In an era where images empower and enlighten with greater speed and impact than ever before, art and design can take on new and unexpected forms. My work is an exploration of the systems of meaning that underly visual expression. I build tools and experiences that harness the power of machines while affirming people's ability to empathize and connect, create rather than destroy.
+ 			</mission>
+            <goal label="Goal">Currently seeking part-time employment (5-10 hrs a week) in a creative capacity. Especially interested in applying skills relevant to graphic design and the arts. Challenges and skill-building opportunites appreciated.
+</goal>
+            <portfolio label="Portfolio" href="http://benlerchin.com">Online at benlerchin.com</portfolio>
+            <references label="References">Available upon request.</references>
+        </profile>
+        <education>
+            <school name="Whitman College" location="Walla Walla, WA, USA" concentration="Studio Art Major" startDate="August 2009" endDate="May 2013" awards="Academic Distinction Fall 2010 - Spring 2011">
+                    <course>Digital, Interactive, and Generative Art                    </course>
+                    <course>Traditional And Digital Photography
+                    </course>
+                    <course>Book Arts and Printmaking
+                    </course>
+                    <course>Sculpture
+                    </course>
+            </school>
+            <school name="Glasgow School of Art" location="Glasgow, Scotland" startDate="January 2012" endDate="June 2012" concentration="Visual Communications: \n Graphic Design"></school>
+        </education>
+        <skills>
+            <skill type="Publishing">
+                <skill>Adobe InDesign</skill>
+                <skill>Adobe Photoshop</skill>
+                <skill>Adobe Illustrator</skill>
+                <skill>Project Management and Planning</skill>
+                <skill>Strong Written and Verbal Skills</skill>
+                <skill>Copy Editing</skill>
+            </skill>
+            <skill type="Art">
+            	<skill>Digital and Darkroom photography</skill>
+            	<skill>Welding and Metalwork</skill>
+            	<skill>Letterpress</skill>
+            	<skill>Etching, Photocopy Lithography, and Linocut printmaking</skill>
+            </skill>
+            <skill type="Web Development">
+                <skill>HTML / CSS</skill>
+                <skill>jQuery</skill>
+                <skill>CMS development with WordPress</skill>
+                <skill>Google Apps for Business</skill>
+            </skill>
+            <skill type="Programming">
+                <skill>Processing</skill>
+                <skill>Javascript</skill>
+                <skill>XML/XSLT</skill>
+            </skill>
+        </skills>
+    
+        <experience>
+           <job name="New York Arts Practicum" position="Participant" location="New York, NY" startDate="June" endDate="August 2012">
+                <responsibility>Assisted artist Ricardo Miranda Zuñiga with production work (primarily code-based) for two upcoming works, including an installation at the New York Hall of Science</responsibility>
+                <responsibility>Participated in studio visits with notable working artists and toured established galleries, building first-hand knowledge of New York’s art world</responsibility>
+                <responsibility>Created original works for critique by visiting artists and practicum faculty</responsibility>
+
+            </job>
+            <job name="Whitman College Waiilatpu" position="Editor-in-Chief" location="Walla Walla, WA" startDate="October 2010" endDate="December 2011">
+                <responsibility>Led successful effort to reinstitute the yearbook, which had last been published in 1997</responsibility>
+                <responsibility >Designed cover, template, and visual identity	                </responsibility>
+                <responsibility>Petitioned student government for funding, support, and office space</responsibility>
+                <responsibility>Trained and managed a staff of 12 editors, production assistants, and photographers</responsibility>
+                <responsibility>Planned content and layout for the 120-page book</responsibility>
+                
+            </job>
+            <job name="Mighty Tieton" position="Graphic Designer and Technical Consultant" location="Tieton, WA" startDate="June" endDate="August 2011">
+                <responsibility>Designed exhibition catalogs
+                </responsibility>
+                <responsibility>Refined visual identities and built correspondence templates for businesses associated with the group</responsibility>
+                <responsibility>Assisted with sales in a letterpress and artisan book shop</responsibility>
+			   <responsibility>Built relationships with locals and the associated community of creative professionals</responsibility>
+                <responsibility>Collaborated on organization, advertising, curation, and hanging of two exhibitions</responsibility>
+ 
+                
+            </job>
+            <job name="CBS Interactive" position="Web Development Intern" location="San Francisco, CA" startDate="June" endDate="August 2010">
+                <responsibility>Assisted with the introduction and implementation of a new Google Apps-based email and productivity platform</responsibility>
+                <responsibility>Compiled documentation and help pages for users of the new system</responsibility>
+                <responsibility>Migrated and redesigned portions of the corporate intranet for the new CMS</responsibility>
+                <responsibility>Researched and mocked up designs for a proposed new web product</responsibility>
+            </job>
+        </experience>
+        
+      
+ 
+	</resume>
