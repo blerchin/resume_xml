@@ -2,16 +2,17 @@
     <resume name="Ben Lerchin" version="2011-03">
     	 <contact>
             <email label="Email" href="mailto:ben@lerchin.com">ben@lerchin.com</email>
-            <phone label="Mobile">+44 (0) 7546 120525</phone>
+            <phone label="Mobile">+1 (971) 225-3724</phone>
             <permanent_address label="Address">280 Boyer Avenue\n Walla Walla, WA 99362\n USA
 	        </permanent_address>
          </contact>
         
     	<profile>
- 			<mission label="Mission Statement">In an era where images empower and enlighten with greater speed and impact than ever before, art and design can take on new and unexpected forms. My work is an exploration of the systems of meaning that underly visual expression. I build tools and experiences that harness the power of machines while affirming people's ability to empathize and connect, create rather than destroy.
+ 			<mission label="Mission Statement">In an era where images empower and enlighten with greater speed and impact than ever before, art and design are taking on new and unexpected forms. My work is an exploration of the systems of meaning that underly visual expression. I build tools and experiences that harness the power of machines while affirming people's ability to empathize and connect, create rather than destroy.
  			</mission>
-            <goal label="Goal">Currently seeking part-time employment (5-10 hrs a week) in a creative capacity. Especially interested in applying skills relevant to graphic design and the arts. Challenges and skill-building opportunites appreciated.
-</goal>
+			<goal>
+				Currently seeking employment in a creative capacity with an art or design-focused organization or publication. Prefer daily challenges and opportunities for advancement of digital media skills.
+			</goal>
             <portfolio label="Portfolio" href="http://benlerchin.com">Online at benlerchin.com</portfolio>
             <references label="References">Available upon request.</references>
         </profile>
@@ -20,42 +21,55 @@
                     <course>Digital, Interactive, and Generative Art                    </course>
                     <course>Traditional And Digital Photography
                     </course>
-                    <course>Book Arts and Printmaking
+                    <course>Art History
                     </course>
-                    <course>Sculpture
+                    <course>Computer Science
                     </course>
             </school>
             <school name="Glasgow School of Art" location="Glasgow, Scotland" startDate="January 2012" endDate="June 2012" concentration="Visual Communications: \n Graphic Design"></school>
         </education>
         <skills>
             <skill type="Publishing">
+                <skill>Project Management and Planning</skill>
+                <skill>Strong Written and Verbal Skills</skill>
                 <skill>Adobe InDesign</skill>
                 <skill>Adobe Photoshop</skill>
                 <skill>Adobe Illustrator</skill>
-                <skill>Project Management and Planning</skill>
-                <skill>Strong Written and Verbal Skills</skill>
-                <skill>Copy Editing</skill>
             </skill>
-            <skill type="Art">
+            <skill type="Art and Design">
             	<skill>Digital and Darkroom photography</skill>
-            	<skill>Welding and Metalwork</skill>
+            	<skill>Digital Video Editing in Final Cut Pro</skill>
+            	<skill>Typography and Page Layout</skill>
+            	<skill>Physical Computing</skill>
             	<skill>Letterpress</skill>
-            	<skill>Etching, Photocopy Lithography, and Linocut printmaking</skill>
             </skill>
-            <skill type="Web Development">
+            <skill type="Web Development Tools">
                 <skill>HTML / CSS</skill>
                 <skill>jQuery</skill>
-                <skill>CMS development with WordPress</skill>
+                <skill>d3.js</skill>
+		<skill>Drupal</skill>
+                <skill>WordPress</skill>
                 <skill>Google Apps for Business</skill>
             </skill>
-            <skill type="Programming">
-                <skill>Processing</skill>
+            <skill type="Programming Languages">
                 <skill>Javascript</skill>
-                <skill>XML/XSLT</skill>
+                <skill>Ruby</skill>
+		<skill>Java (Processing &amp; Android API)</skill>
+                <skill>Python</skill>
+		<skill>C / C++</skill>
+                <skill>PHP</skill>
             </skill>
         </skills>
     
         <experience>
+	
+           <job name="Whitman College Art Department" position="Web Developer and Designer" location="Walla Walla, WA" startDate="October 2012" endDate="Present">
+                <responsibility>Design, architect, and implement a full-featured website powered by Drupal CMS</responsibility>
+                <responsibility>Work with faculty and staff to build and structure a collection of images and text content</responsibility>
+                <responsibility>Build web applications to facilitate the maintainance of a student work archive, faculty profile pages, and course listings</responsibility>
+                <responsibility>Document operation of the site for future reference by contributors and maintainers</responsibility>
+
+            </job>
            <job name="New York Arts Practicum" position="Participant" location="New York, NY" startDate="June" endDate="August 2012">
                 <responsibility>Assisted artist Ricardo Miranda Zuñiga with production work (primarily code-based) for two upcoming works, including an installation at the New York Hall of Science</responsibility>
                 <responsibility>Participated in studio visits with notable working artists and toured established galleries, building first-hand knowledge of New York’s art world</responsibility>
@@ -77,8 +91,12 @@
                 <responsibility>Assisted with sales in a letterpress and artisan book shop</responsibility>
 			   <responsibility>Built relationships with locals and the associated community of creative professionals</responsibility>
                 <responsibility>Collaborated on organization, advertising, curation, and hanging of two exhibitions</responsibility>
- 
-                
+            </job>
+            <job name="Whitman College Pioneer" position="Production Manager" location="Walla Walla, WA" startDate="January" endDate="December 2010">
+                <responsibility>Laid out front page of the weekly newspaper</responsibility>
+                <responsibility>Revised template and maintained visual appeal for newspaper and associated publications</responsibility>
+                <responsibility>Participated in final review of articles, images, and layout</responsibility>
+                <responsibility>Facilitated communication between production staff and other memebers of the student-run organization</responsibility>
             </job>
             <job name="CBS Interactive" position="Web Development Intern" location="San Francisco, CA" startDate="June" endDate="August 2010">
                 <responsibility>Assisted with the introduction and implementation of a new Google Apps-based email and productivity platform</responsibility>
