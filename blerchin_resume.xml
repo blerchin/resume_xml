@@ -64,45 +64,41 @@
         <experience>
 	
            <job name="Whitman College Art Department" position="Web Developer and Designer" location="Walla Walla, WA" startDate="October 2012" endDate="Present">
-                <responsibility>Design, architect, and implement a full-featured website powered by Drupal CMS</responsibility>
-                <responsibility>Work with faculty and staff to build and structure a collection of images and text content</responsibility>
-                <responsibility>Build web applications to facilitate the maintainance of a student work archive, faculty profile pages, and course listings</responsibility>
-                <responsibility>Document operation of the site for future reference by contributors and maintainers</responsibility>
+                <responsibility>Design, architect, and implement a Drupal-powered website</responsibility>
+                <responsibility>Work with faculty and staff to structure and compile images and text content</responsibility>
+                <responsibility>Build web applications to facilitate the updating and maintainance of dynamic content</responsibility>
+                <responsibility>Document operation of the site for future reference by maintainers</responsibility>
 
             </job>
            <job name="New York Arts Practicum" position="Participant" location="New York, NY" startDate="June" endDate="August 2012">
-                <responsibility>Assisted artist Ricardo Miranda Zuñiga with production work (primarily code-based) for two upcoming works, including an installation at the New York Hall of Science</responsibility>
-                <responsibility>Participated in studio visits with notable working artists and toured established galleries, building first-hand knowledge of New York’s art world</responsibility>
+                <responsibility>Assisted artist Ricardo Miranda Zuñiga with production on two upcoming artworks, including an installation at the New York Hall of Science</responsibility>
+                <responsibility>Visited notable artists and toured established galleries, building first-hand knowledge of New York’s art world</responsibility>
                 <responsibility>Created original works for critique by visiting artists and practicum faculty</responsibility>
 
             </job>
             <job name="Whitman College Waiilatpu" position="Editor-in-Chief" location="Walla Walla, WA" startDate="October 2010" endDate="December 2011">
-                <responsibility>Led successful effort to reinstitute the yearbook, which had last been published in 1997</responsibility>
+                <responsibility>Led successful effort to reinstitute the yearbook, last published 13 years prior</responsibility>
                 <responsibility >Designed cover, template, and visual identity	                </responsibility>
                 <responsibility>Petitioned student government for funding, support, and office space</responsibility>
-                <responsibility>Trained and managed a staff of 12 editors, production assistants, and photographers</responsibility>
-                <responsibility>Planned content and layout for the 120-page book</responsibility>
+                <responsibility>Trained and managed a staff of 12 students responsible for content and layout of the 120-page book.</responsibility>
                 
             </job>
             <job name="Mighty Tieton" position="Graphic Designer and Technical Consultant" location="Tieton, WA" startDate="June" endDate="August 2011">
                 <responsibility>Designed exhibition catalogs
                 </responsibility>
-                <responsibility>Refined visual identities and built correspondence templates for businesses associated with the group</responsibility>
-                <responsibility>Assisted with sales in a letterpress and artisan book shop</responsibility>
-			   <responsibility>Built relationships with locals and the associated community of creative professionals</responsibility>
                 <responsibility>Collaborated on organization, advertising, curation, and hanging of two exhibitions</responsibility>
+                <responsibility>Refined visual identities for businesses associated with the group</responsibility>
+                <responsibility>Assisted with sales in a letterpress and artisan book shop</responsibility>
             </job>
             <job name="Whitman College Pioneer" position="Production Manager" location="Walla Walla, WA" startDate="January" endDate="December 2010">
                 <responsibility>Laid out front page of the weekly newspaper</responsibility>
                 <responsibility>Revised template and maintained visual appeal for newspaper and associated publications</responsibility>
-                <responsibility>Participated in final review of articles, images, and layout</responsibility>
                 <responsibility>Facilitated communication between production staff and other memebers of the student-run organization</responsibility>
             </job>
             <job name="CBS Interactive" position="Web Development Intern" location="San Francisco, CA" startDate="June" endDate="August 2010">
                 <responsibility>Assisted with the introduction and implementation of a new Google Apps-based email and productivity platform</responsibility>
                 <responsibility>Compiled documentation and help pages for users of the new system</responsibility>
                 <responsibility>Migrated and redesigned portions of the corporate intranet for the new CMS</responsibility>
-                <responsibility>Researched and mocked up designs for a proposed new web product</responsibility>
             </job>
         </experience>
         
