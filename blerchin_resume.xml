@@ -10,9 +10,6 @@
     	<profile>
  			<mission label="Mission Statement">In an era where images empower and enlighten with greater speed and impact than ever before, art and design are taking on new and unexpected forms. My work is an exploration of the systems of meaning that underly visual expression. I build tools and experiences that harness the power of machines while affirming people's ability to empathize and connect, create rather than destroy.
  			</mission>
-			<goal>
-				Currently seeking employment in a creative capacity with an art or design-focused organization or publication. Prefer daily challenges and opportunities for advancement of digital media skills.
-			</goal>
             <portfolio label="Portfolio" href="http://benlerchin.com">Online at benlerchin.com</portfolio>
             <references label="References">Available upon request.</references>
         </profile>
@@ -63,7 +60,7 @@
     
         <experience>
 	
-           <job name="Whitman College Art Department" position="Web Developer and Designer" location="Walla Walla, WA" startDate="October 2012" endDate="Present">
+           <job name="Whitman College Art Department" position="Web Developer and Designer" location="Walla Walla, WA" startDate="October 2012" endDate="June 2013">
                 <responsibility>Design, architect, and implement a Drupal-powered website</responsibility>
                 <responsibility>Work with faculty and staff to structure and compile images and text content</responsibility>
                 <responsibility>Build web applications to facilitate the updating and maintainance of dynamic content</responsibility>
@@ -71,8 +68,8 @@
 
             </job>
            <job name="New York Arts Practicum" position="Participant" location="New York, NY" startDate="June" endDate="August 2012">
-                <responsibility>Assisted artist Ricardo Miranda Zuñiga with production on two upcoming artworks, including an installation at the New York Hall of Science</responsibility>
-                <responsibility>Visited notable artists and toured established galleries, building first-hand knowledge of New York’s art world</responsibility>
+                <responsibility>Assisted artist Ricardo Miranda Zu&#241;iga with production on two upcoming artworks, including an installation at the New York Hall of Science</responsibility>
+                <responsibility>Visited notable artists and toured established galleries, building first-hand knowledge of New York&apos;s art world</responsibility>
                 <responsibility>Created original works for critique by visiting artists and practicum faculty</responsibility>
 
             </job>
