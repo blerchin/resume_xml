@@ -3,16 +3,13 @@
     	 <contact>
             <email label="Email" href="mailto:ben@lerchin.com">ben@lerchin.com</email>
             <phone label="Mobile">+1 (971) 225-3724</phone>
-            <permanent_address label="Address">280 Boyer Avenue\n Walla Walla, WA 99362\n USA
+            <permanent_address label="Address">PO Box 3295\n Walla Walla, WA 99362\n USA
 	        </permanent_address>
          </contact>
         
     	<profile>
  			<mission label="Mission Statement">In an era where images empower and enlighten with greater speed and impact than ever before, art and design are taking on new and unexpected forms. My work is an exploration of the systems of meaning that underly visual expression. I build tools and experiences that harness the power of machines while affirming people's ability to empathize and connect, create rather than destroy.
  			</mission>
-			<goal>
-				Currently seeking employment in a creative capacity with an art or design-focused organization or publication. Prefer daily challenges and opportunities for advancement of digital media skills.
-			</goal>
             <portfolio label="Portfolio" href="http://benlerchin.com">Online at benlerchin.com</portfolio>
             <references label="References">Available upon request.</references>
         </profile>
@@ -46,14 +43,14 @@
             <skill type="Web Development Tools">
                 <skill>HTML / CSS</skill>
                 <skill>jQuery</skill>
+								<skill>Backbone.js / Marionette</skill>
                 <skill>d3.js</skill>
 		<skill>Drupal</skill>
                 <skill>WordPress</skill>
-                <skill>Google Apps for Business</skill>
             </skill>
             <skill type="Programming Languages">
-                <skill>Javascript</skill>
-                <skill>Ruby</skill>
+							<skill>Javascript / CoffeeScript</skill>
+                <skill>Ruby (experienced Rails developer)</skill>
 		<skill>Java (Processing &amp; Android API)</skill>
                 <skill>Python</skill>
 		<skill>C / C++</skill>
@@ -62,12 +59,26 @@
         </skills>
     
         <experience>
+           <job name="Ben's Web Productions" position="Owner, Lead Developer" location="Walla Walla, WA" startDate="January 2014" endDate="Present">
+						 <responsibility>Design and develop productivity applications to solve challenging organizational communication problems</responsibility>
+						 <responsibility>Coordinate with stakeholders throughout the organization to identify inefficient workflows and inadequate/obsolete digital tools</responsibility>
+						 <responsibility>Build state-of-the-art browser-based applications using tools such as Ruby on Rails, Backbone.js, and jQuery</responsibility>
+						 <responsibility>Provide training and guidance during rollout of application, maintain codebase and develop new features thereafter</responsibility>
+
+
+            </job>
 	
-           <job name="Whitman College Art Department" position="Web Developer and Designer" location="Walla Walla, WA" startDate="October 2012" endDate="Present">
-                <responsibility>Design, architect, and implement a Drupal-powered website</responsibility>
-                <responsibility>Work with faculty and staff to structure and compile images and text content</responsibility>
-                <responsibility>Build web applications to facilitate the updating and maintainance of dynamic content</responsibility>
-                <responsibility>Document operation of the site for future reference by maintainers</responsibility>
+           <job name="Walla Walla Foundry" position="Digital Developer" location="Walla Walla, WA" startDate="September 2013" endDate="December 2013">
+                <responsibility>Designed and developed a media-rich portfolio website on WordPress platform</responsibility>
+                <responsibility>Compiled a curated portfolio of rich images from a 20-year archive project documentation</responsibility>
+                <responsibility>Maintain and update website with photography and video from ongoing projects</responsibility>
+
+            </job>
+           <job name="Whitman College Art Department" position="Web Developer and Designer" location="Walla Walla, WA" startDate="October 2012" endDate="June 2013">
+                <responsibility>Designed, architected, and implemented a Drupal-powered website</responsibility>
+                <responsibility>Worked with faculty and staff to structure and compile images and text content</responsibility>
+                <responsibility>Built web applications to facilitate the updating and maintainance of dynamic content</responsibility>
+                <responsibility>Documented operation of the site for future reference by maintainers</responsibility>
 
             </job>
            <job name="New York Arts Practicum" position="Participant" location="New York, NY" startDate="June" endDate="August 2012">
