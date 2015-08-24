@@ -22,7 +22,7 @@ $(document).ready(function(){
 			var $exp_section = $('div.section.experience');
 			var $exp_item = $('.section.experience .listBox');
 			var first_exp_scroll = 1;
-			var all_exp_scroll = 4;
+			var all_exp_scroll = 6;
 			var curr = first_exp_scroll;
 
 	// sort of a weird use of wrapper here. wrapper is INSIDE section.

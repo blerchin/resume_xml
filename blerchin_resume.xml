@@ -2,8 +2,8 @@
     <resume name="Ben Lerchin" version="2011-03">
     	 <contact>
             <email label="Email" href="mailto:ben@lerchin.com">ben@lerchin.com</email>
-            <phone label="Mobile">+1 (971) 225-3724</phone>
-            <permanent_address label="Address">PO Box 3295\n Walla Walla, WA 99362\n USA
+            <phone label="Mobile">(415) 259-9358</phone>
+            <permanent_address label="Address">2 Badger Ct.\n Novato, CA 94949
 	        </permanent_address>
          </contact>
         
@@ -50,7 +50,7 @@
             </skill>
             <skill type="Programming Languages">
 							<skill>Javascript / CoffeeScript</skill>
-                <skill>Ruby (Rails experience)</skill>
+                <skill>Ruby on Rails</skill>
 		<skill>Java (Processing &amp; Android API)</skill>
                 <skill>Python</skill>
 		<skill>C / C++</skill>
@@ -60,12 +60,15 @@
     
         <experience>
            <job name="Ben's Web Productions" position="Owner, Lead Developer" location="Walla Walla, WA" startDate="January 2014" endDate="Present">
-						 <responsibility>Design and develop productivity applications to solve challenging organizational communication problems</responsibility>
-						 <responsibility>Coordinate with stakeholders throughout the organization to identify inefficient workflows and inadequate/obsolete digital tools</responsibility>
-						 <responsibility>Build state-of-the-art browser-based applications using tools such as Ruby on Rails, Backbone.js, and jQuery</responsibility>
-						 <responsibility>Provide training and guidance during rollout of application, maintain codebase and develop new features thereafter</responsibility>
-
-
+						 <responsibility>Design and build immersive media-rich web
+							 experiences for artists, cultural institutions, and other
+							 freelance clients</responsibility>
+						 <responsibility>Architected and developed a custom project
+							 management system solving complex organizational
+							 communication and asset storage problems for a fine art
+							 foundry</responsibility>
+						 <responsibility>Assist with custom programming for web
+							 application development projects</responsibility>
             </job>
 	
            <job name="Walla Walla Foundry" position="Digital Developer" location="Walla Walla, WA" startDate="September 2013" endDate="December 2013">
